@@ -22,4 +22,4 @@ sub_result = calc_sub(a, b)
 
 div_result = calc_div(add_result, sub_result)
 
-print(div_result)
+print(div_result) 

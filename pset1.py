@@ -1,8 +1,9 @@
 # TODO: solve  the quadratic equation with variables a,b and c where a=2, b=3 and c=4
 
 # hints :  
-a=2
-b=3
+num_a = 2
+
+num_b = 3
 c=4
 x=a*c*4
 y=b**2

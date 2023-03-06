@@ -14,6 +14,10 @@ def cook(food):
 # print("put water on fire")
 # print("pour spag")
 
+#
+##
+###
+####
 
 
 cook("rice")
@@ -26,3 +30,5 @@ ola = ['olu', 'mide']
 ##
 
 ''.join(ola)
+
+

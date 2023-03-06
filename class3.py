@@ -51,6 +51,8 @@ number = 4
 
 number *= 2
 
+number = number * 2
+
 number -= 2
 
 number /= 2

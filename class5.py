@@ -15,6 +15,8 @@ ages_in_atc = {
 
 house = houses_in_abk.get("ATC3")
 
+houses_in_abk["ola"] = 88
+
 houses = houses_in_abk.copy()
 
 houses.clear()
